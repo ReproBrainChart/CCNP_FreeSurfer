@@ -1,1 +1,2 @@
 7139be09-9e0c-4f3c-a9c1-97c9d4bd69d5 archive-id=76b9b53e-1ea6-465c-97c0-5c518c0e83fb autoenable=true encryption=none externaltype=ora name=output-storage type=external url=ria+file:///cbica/projects/RBC/freesurfer_stats/CCNP/fs-tabulate/output_ria timestamp=1698434487.908912727s
+80c7aa0f-6beb-4053-9550-cb5f208d0c29 autoenable=true bucket=fcp-indi datacenter=US encryption=none exporttree=no fileprefix=data/Projects/RBC/CCNP_FreeSurfer/ host=s3.amazonaws.com name=fcp-indi partsize=1GiB port=80 public=yes storageclass=STANDARD type=S3 timestamp=1698537891.397488557s
