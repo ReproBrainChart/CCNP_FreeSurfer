@@ -1,0 +1,196 @@
+participant_id	study	euler	rater_1	rater_3	rater_4	rater_5	rater_6	across_rater_average	qc_determination
+sub-colornest001	CCNP	-26	1	1				1	Pass
+sub-colornest009	CCNP	-80	1	0.25				0.625	Artifact
+sub-colornest010	CCNP	-64	1	1				1	Pass
+sub-colornest014	CCNP	-25	1	1				1	Pass
+sub-colornest016	CCNP	-31	1	1				1	Pass
+sub-colornest019	CCNP	-86	1	1				1	Pass
+sub-colornest021	CCNP	-36	1	1				1	Pass
+sub-colornest022	CCNP	-36	1	1				1	Pass
+sub-colornest041	CCNP	-102	1	1				1	Pass
+sub-colornest057	CCNP	-53	1	1				1	Pass
+sub-colornest060	CCNP	-95	0.5	0.75				0.625	Artifact
+sub-colornest062	CCNP	-57	1	1				1	Pass
+sub-colornest067	CCNP	-46	1	1				1	Pass
+sub-colornest069	CCNP	-56	1	1				1	Pass
+sub-colornest072	CCNP	-61	1	1				1	Pass
+sub-colornest080	CCNP	-27	1	1				1	Pass
+sub-colornest086	CCNP	-68	1	1				1	Pass
+sub-colornest094	CCNP	-120	1	1				1	Pass
+sub-colornest095	CCNP	-44	1	1				1	Pass
+sub-colornest098	CCNP	-72	1	1				1	Pass
+sub-colornest111	CCNP	-59	1	1				1	Pass
+sub-colornest112	CCNP	-48	1	1				1	Pass
+sub-colornest117	CCNP	-38	1	1				1	Pass
+sub-colornest119	CCNP	-18	1	1				1	Pass
+sub-colornest120	CCNP	-42	1	1				1	Pass
+sub-colornest123	CCNP	-29	1	1				1	Pass
+sub-colornest129	CCNP	-33	1	1				1	Pass
+sub-colornest142	CCNP	-43	1	1				1	Pass
+sub-colornest145	CCNP	-39	1	1				1	Pass
+sub-colornest147	CCNP	-50	1	1				1	Pass
+sub-colornest152	CCNP	-51	1	1				1	Pass
+sub-colornest164	CCNP	-28	1	1				1	Pass
+sub-colornest168	CCNP	-41	1	1				1	Pass
+sub-colornest170	CCNP	-47	1	1				1	Pass
+sub-colornest171	CCNP	-23	1	1				1	Pass
+sub-colornest176	CCNP	-34	1	1				1	Pass
+sub-colornest177	CCNP	-88	1	1				1	Pass
+sub-colornest181	CCNP	-200	0	0				0	Fail
+sub-colornest002	CCNP	-28			1	1	1	1	Pass
+sub-colornest004	CCNP	-51			1	1	1	1	Pass
+sub-colornest006	CCNP	-72			1	1	1	1	Pass
+sub-colornest007	CCNP	-58			1	1	1	1	Pass
+sub-colornest013	CCNP	-36			1	1	1	1	Pass
+sub-colornest026	CCNP	-60			1	1	1	1	Pass
+sub-colornest035	CCNP	-36			1	1	1	1	Pass
+sub-colornest038	CCNP	-39			1	1	1	1	Pass
+sub-colornest042	CCNP	-55			1	1	1	1	Pass
+sub-colornest047	CCNP	-21			1	1	1	1	Pass
+sub-colornest050	CCNP	-34			1	1	1	1	Pass
+sub-colornest051	CCNP	-18			1	1	1	1	Pass
+sub-colornest064	CCNP	-40			1	1	1	1	Pass
+sub-colornest070	CCNP	-47			1	1	1	1	Pass
+sub-colornest076	CCNP	-93			1	1	1	1	Pass
+sub-colornest077	CCNP	-44			1	1	1	1	Pass
+sub-colornest078	CCNP	-31			1	1	1	1	Pass
+sub-colornest085	CCNP	-48			1	1	1	1	Pass
+sub-colornest089	CCNP	-52			1	1	0.75	0.916666667	Artifact
+sub-colornest096	CCNP	-42			1	1	1	1	Pass
+sub-colornest100	CCNP	-75			1	1	1	1	Pass
+sub-colornest102	CCNP	-25			1	1	1	1	Pass
+sub-colornest104	CCNP	-84			1	1	0.5	0.833333333	Artifact
+sub-colornest107	CCNP	-97			1	1	1	1	Pass
+sub-colornest109	CCNP	-88			1	1	1	1	Pass
+sub-colornest113	CCNP	-27			1	1	1	1	Pass
+sub-colornest116	CCNP	-49			1	1	1	1	Pass
+sub-colornest126	CCNP	-56			1	1	1	1	Pass
+sub-colornest133	CCNP	-109			1	0.25	1	0.75	Artifact
+sub-colornest137	CCNP	-62			1	1	1	1	Pass
+sub-colornest141	CCNP	-46			1	1	1	1	Pass
+sub-colornest143	CCNP	-43			1	1	1	1	Pass
+sub-colornest153	CCNP	-29			1	1	1	1	Pass
+sub-colornest154	CCNP	-37			1	1	1	1	Pass
+sub-colornest157	CCNP	-66			1	1	1	1	Pass
+sub-colornest189	CCNP	-174			1	1	0.5	0.833333333	Artifact
+sub-colornest193	CCNP	-32			1	1	1	1	Pass
+sub-colornest194	CCNP	-26			1	1	1	1	Pass
+sub-colornest005	CCNP	-112	1			1		1	Pass
+sub-colornest018	CCNP	-67	1			1		1	Pass
+sub-colornest020	CCNP	-46	1			1		1	Pass
+sub-colornest024	CCNP	-29	1			1		1	Pass
+sub-colornest028	CCNP	-41	1			1		1	Pass
+sub-colornest033	CCNP	-102	1			1		1	Pass
+sub-colornest046	CCNP	-50	1			1		1	Pass
+sub-colornest049	CCNP	-188	0.25			0.5		0.375	Artifact
+sub-colornest053	CCNP	-36	1			1		1	Pass
+sub-colornest054	CCNP	-27	1			1		1	Pass
+sub-colornest066	CCNP	-55	1			1		1	Pass
+sub-colornest073	CCNP	-72	1			1		1	Pass
+sub-colornest075	CCNP	-86	1			1		1	Pass
+sub-colornest081	CCNP	-56	1			1		1	Pass
+sub-colornest084	CCNP	-62	1			1		1	Pass
+sub-colornest087	CCNP	-39	1			1		1	Pass
+sub-colornest090	CCNP	-59	1			1		1	Pass
+sub-colornest101	CCNP	-52	1			1		1	Pass
+sub-colornest103	CCNP	-18	1			1		1	Pass
+sub-colornest106	CCNP	-37	1			1		1	Pass
+sub-colornest110	CCNP	-44	1			1		1	Pass
+sub-colornest114	CCNP	-34	1			1		1	Pass
+sub-colornest115	CCNP	-28	1			1		1	Pass
+sub-colornest122	CCNP	-43	1			1		1	Pass
+sub-colornest127	CCNP	-60	1			1		1	Pass
+sub-colornest134	CCNP	-47	1			1		1	Pass
+sub-colornest135	CCNP	-88	1			1		1	Pass
+sub-colornest140	CCNP	-93	1			1		1	Pass
+sub-colornest160	CCNP	-48	1			1		1	Pass
+sub-colornest161	CCNP	-26	1			1		1	Pass
+sub-colornest166	CCNP	-25	1			1		1	Pass
+sub-colornest167	CCNP	-31	1			1		1	Pass
+sub-colornest178	CCNP	-23	1			1		1	Pass
+sub-colornest184	CCNP	-33	1			1		1	Pass
+sub-colornest188	CCNP	-51	1			1		1	Pass
+sub-colornest190	CCNP	-78	1			1		1	Pass
+sub-colornest192	CCNP	-42	1			1		1	Pass
+sub-colornest195	CCNP	-36	1			1		1	Pass
+sub-colornest008	CCNP	-43		1	1		1	1	Pass
+sub-colornest017	CCNP	-55		1	1		1	1	Pass
+sub-colornest023	CCNP	-74		1	1		1	1	Pass
+sub-colornest027	CCNP	-96		1	1		1	1	Pass
+sub-colornest029	CCNP	-36		0.75	1		1	0.916666667	Artifact
+sub-colornest031	CCNP	-108		1	1		1	1	Pass
+sub-colornest036	CCNP	-60		1	1		1	1	Pass
+sub-colornest040	CCNP	-32		1	1		1	1	Pass
+sub-colornest045	CCNP	-66		1	1		1	1	Pass
+sub-colornest052	CCNP	-70		0.75	1		1	0.916666667	Artifact
+sub-colornest055	CCNP	-43		1	1		1	1	Pass
+sub-colornest059	CCNP	-25		1	1		1	1	Pass
+sub-colornest071	CCNP	-52		1	1		1	1	Pass
+sub-colornest074	CCNP	-30		1	1		1	1	Pass
+sub-colornest079	CCNP	-58		1	1		1	1	Pass
+sub-colornest088	CCNP	-40		1	1		1	1	Pass
+sub-colornest093	CCNP	-41		1	1		1	1	Pass
+sub-colornest097	CCNP	-37		1	1		1	1	Pass
+sub-colornest099	CCNP	-49		1	1		1	1	Pass
+sub-colornest108	CCNP	-51		1	1		1	1	Pass
+sub-colornest125	CCNP	-45		1	1		1	1	Pass
+sub-colornest131	CCNP	-47		1	1		1	1	Pass
+sub-colornest132	CCNP	-148		0.75	0.75		0.25	0.583333333	Artifact
+sub-colornest136	CCNP	-28		1	1		1	1	Pass
+sub-colornest138	CCNP	-56		1	1		1	1	Pass
+sub-colornest139	CCNP	-20		1	1		1	1	Pass
+sub-colornest144	CCNP	-83		1	1		1	1	Pass
+sub-colornest148	CCNP	-47		1	1		1	1	Pass
+sub-colornest149	CCNP	-29		1	1		1	1	Pass
+sub-colornest150	CCNP	-34		1	1		1	1	Pass
+sub-colornest158	CCNP	-88		1	1		1	1	Pass
+sub-colornest159	CCNP	-92		1	1		1	1	Pass
+sub-colornest169	CCNP	-16		0.75	1		1	0.916666667	Artifact
+sub-colornest173	CCNP	-27		1	1		1	1	Pass
+sub-colornest174	CCNP	-25		1	1		1	1	Pass
+sub-colornest183	CCNP	-38		1	1		1	1	Pass
+sub-colornest186	CCNP	-61		1	1		1	1	Pass
+sub-colornest187	CCNP	-35		1	1		1	1	Pass
+sub-colornest003	CCNP	-81	1	1	1	1	1	1	Pass
+sub-colornest011	CCNP	-57	1	1	1	1	1	1	Pass
+sub-colornest012	CCNP	-54	1	1	1	1	1	1	Pass
+sub-colornest015	CCNP	-47	1	1	1	1	1	1	Pass
+sub-colornest025	CCNP	-69	1	1	1	1	1	1	Pass
+sub-colornest030	CCNP	-34	1	1	1	1	1	1	Pass
+sub-colornest039	CCNP	-208	0.5		0	0	0	0.125	Artifact
+sub-colornest048	CCNP	-45	1	1	1	1	1	1	Pass
+sub-colornest061	CCNP	-61	1	1	1	1	1	1	Pass
+sub-colornest063	CCNP	-104	1	1	1	1	1	1	Pass
+sub-colornest083	CCNP	-90	1	0.75	1	1	1	0.95	Artifact
+sub-colornest121	CCNP	-42	1	1	1	1	1	1	Pass
+sub-colornest124	CCNP	-28	1	1	1	1	1	1	Pass
+sub-colornest155	CCNP	-50	1	1	1	1	1	1	Pass
+sub-colornest156	CCNP	-37	1	1	1	1	1	1	Pass
+sub-colornest172	CCNP	-39	1	1	1	1	1	1	Pass
+sub-colornest179	CCNP	-24	1	1	1	1	1	1	Pass
+sub-colornest180	CCNP	-16	1	1	1	1	1	1	Pass
+sub-colornest182	CCNP	-32	1	1	1	1	1	1	Pass
+sub-colornest185	CCNP	-26	1	1	1	1	1	1	Pass
+sub-colornest032	CCNP	-49	1	1	1	1	1	1	Pass
+sub-colornest037	CCNP	-30	1	1	1	1	1	1	Pass
+sub-colornest043	CCNP	-38	1	1	1	1	1	1	Pass
+sub-colornest044	CCNP	-27	1	1	1	1	1	1	Pass
+sub-colornest056	CCNP	-73	1	1	1	1	1	1	Pass
+sub-colornest058	CCNP	-95	1	1	1	1	1	1	Pass
+sub-colornest065	CCNP	-36	1	1	1	1	1	1	Pass
+sub-colornest068	CCNP	-56	1	0.75	1	1	1	0.95	Artifact
+sub-colornest082	CCNP	-41	1	1	1	1	1	1	Pass
+sub-colornest091	CCNP	-43	1	1	1	1	1	1	Pass
+sub-colornest105	CCNP	-126	1	0.25	1	0.5	1	0.75	Artifact
+sub-colornest118	CCNP	-59	1	1	1	1	1	1	Pass
+sub-colornest128	CCNP	-52	1	1	1	1	1	1	Pass
+sub-colornest130	CCNP	-25	1	1	1	1	1	1	Pass
+sub-colornest146	CCNP	-66	1	1	1	1	1	1	Pass
+sub-colornest151	CCNP	-33	0.75	1	1	1	1	0.95	Artifact
+sub-colornest162	CCNP	-87	1	1	1	1	1	1	Pass
+sub-colornest165	CCNP	-19	1	1	1	1	1	1	Pass
+sub-colornest191	CCNP	-47	1	1	1	1	1	1	Pass
+sub-colornest034	CCNP	-11	1		1	1	1	1	Pass
+sub-colornest092	CCNP		1		1	1	1	1	Pass
+sub-colornest163	CCNP	-12	1		1	1	1	1	Pass
+sub-colornest175	CCNP	-8	1		1	1	1	1	Pass
