@@ -5,6 +5,10 @@
             "CCNP": "CCNP"
         }
     },
+     "session_id": {
+        "LongName": "Session identifier",
+        "Description": "The session identifier indicates the site at which the subject was scanned."
+    },
     "euler": {
         "LongName": "Euler Number",
         "Description": "A measure of the topological complexity of the reconstructed cortical surface as calculated by the sum of the vertices and faces subtracted by the number of faces. Lower values below an ideal value of 2 indicate more defects in surface reconstruction.",
