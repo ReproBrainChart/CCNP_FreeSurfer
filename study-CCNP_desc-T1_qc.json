@@ -3,7 +3,6 @@
         "LongName": "Study identifier",
         "Levels": {
             "CCNP": "CCNP"
-        }
     },
      "session_id": {
         "LongName": "Session identifier",
